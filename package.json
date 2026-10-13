@@ -1,0 +1,15 @@
+{
+  "name": "blackout-404-bot",
+  "version": "1.0.0",
+  "description": "Bot punti permanenza party - Blackout 404",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
