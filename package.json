@@ -1,12 +1,11 @@
 {
   "name": "blackout-404-bot",
-  "version": "1.0.0",
-  "description": "Bot punti permanenza party - Blackout 404",
+  "version": "17.0.0",
+  "description": "Blackout 404 Collector Card Bot",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node index.js",
-    "dev": "node index.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "discord.js": "^14.14.1",
