@@ -1,7 +1,6 @@
 {
   "name": "blackout-404-bot",
-  "version": "17.0.0",
-  "description": "Blackout 404 Collector Card Bot",
+  "version": "23.0.0",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
